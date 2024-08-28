@@ -75,6 +75,9 @@
     <data name="InProgress" xml:space="preserve">
         <value>In Progress</value>
     </data>
+    <data name="CapTomes" xml:space="preserve">
+        <value>Cap Weekly Tomes</value>
+    </data>
     <data name="CustomDelivery" xml:space="preserve">
         <value>Custom Delivery</value>
     </data>

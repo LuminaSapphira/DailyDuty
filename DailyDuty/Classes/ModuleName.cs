@@ -9,6 +9,9 @@ public enum ModuleName {
     [Description("TestModule")] 
     TestModule,
     
+    [Description("CapTomes")]
+    CapTomes,
+
     [Description("ChallengeLog")]
     ChallengeLog,
     
